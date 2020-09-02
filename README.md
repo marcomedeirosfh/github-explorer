@@ -5,7 +5,7 @@ A React App that uses the Github API to display users' profiles and their data (
 
 
 ## Functionality
-Search user
+Search user<br />
 Save recently searched users
 
 ## Technologies
