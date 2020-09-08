@@ -10,7 +10,7 @@ View repository(Github API)<br />
 Save recently searched users (LocalStorage)
 
 ## Technologies
-React JS
+React JS<br />
 Typescript
 
 ## Screenshots
