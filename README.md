@@ -1,16 +1,20 @@
 # Github Explorer
 
 ## Description
-A React App that uses the Github API to display users' profiles and their data (repos, stars, open issues, forks...)
+A React App that uses the Github API to search repositories and their data (stars, forks, ...)
 
 
 ## Functionality
-Search user<br />
-View user profile<br />
-Save recently searched users
+Search repository<br />
+View repository(Github API)<br />
+Save recently searched users (LocalStorage)
 
 ## Technologies
-React
-Typescript
+React JS<br />
+Typescript<br />
+Axios
+
+## Screenshots
+
 
 ## How to run locally
