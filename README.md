@@ -16,8 +16,4 @@ Axios
 
 ## Screenshots
 
-
-## Screenshots
-
-
 ## How to run locally
