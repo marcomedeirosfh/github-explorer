@@ -3,11 +3,9 @@
 ## Description
 A React App that uses the Github API to search repositories and their data (stars, forks, open issues...)
 
-![Dashboard]
-(https://github.com/marcomedeirosfh/github-explorer/blob/master/src/assets/dashboard.png?raw=true)
+![Dashboard](https://github.com/marcomedeirosfh/github-explorer/blob/master/src/assets/dashboard.png?raw=true)
 
-![RepoPage]
-(https://github.com/marcomedeirosfh/github-explorer/blob/master/src/assets/details.png?raw=true)
+![RepoPage](https://github.com/marcomedeirosfh/github-explorer/blob/master/src/assets/details.png?raw=true)
 
 ## Functionality
 Search repository<br />
